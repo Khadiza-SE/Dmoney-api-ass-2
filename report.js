@@ -1,8 +1,8 @@
 const newman = require('newman');
-//require('dotenv').config();
+require('dotenv').config();
  
 newman.run({
-    //collection:`https://api.postman.com/collections/1844288-0c2f5c62-e7d8-4d31-8baa-6158bf88f4a0?access_key=${process.env.secretKey}`,
+    collection:`https://api.postman.com/collections/33809006-172156c8-2b4e-4220-b8da-138366b2e2b8?access_key=${process.env.secretKey}`,
     collection:require('./collection/collection.json'),
     reporters: 'htmlextra',
     iterationCount: 1,
