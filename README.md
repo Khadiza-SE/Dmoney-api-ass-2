@@ -1,3 +1,5 @@
 Postman assignment documentation:  https://documenter.getpostman.com/view/33809006/2sAXjRVoxg
 
-Test Case + Bug Report : https://drive.google.com/drive/folders/1M-aa6DeUKn2C46Y618D5hrvTJBIV84CY?usp=drive_link
+Test Case : https://docs.google.com/spreadsheets/d/12rTugQO-zKdsBaqwxAqvaxT2CtWveEhY/edit?usp=sharing&ouid=104421976357817016164&rtpof=true&sd=true
+
+Bug Report : https://docs.google.com/spreadsheets/d/1lKOEqlvdzridgGP8TPbdURHdFcI95XtYiVDegIJiJ8c/edit?usp=sharing
